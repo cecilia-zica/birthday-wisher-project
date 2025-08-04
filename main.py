@@ -3,8 +3,8 @@ import random
 import pandas as pd
 import smtplib
 
-MYEMAIL = "myemail@gmail.com"
-PASSWORD = "password123"
+MYEMAIL = "seu_email@gmail.com"
+PASSWORD = "sua_senha_de_app"
 
 today = dt.datetime.now()
 today_tuple = (today.month, today.day)
